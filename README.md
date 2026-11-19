@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="96px" src="public/icon.webp" alt="AntherLauncher" />
+  <img width="96px" src="public/icon.png" alt="AntherLauncher" />
   <h1 align="center">AntherLauncher</h1>
   <p align="center">
     A fast, modern, and open-source Minecraft launcher built with <b>React</b> and <b>Electron</b> for <b>Windows</b>, <b>macOS</b>, and <b>Linux</b>.
