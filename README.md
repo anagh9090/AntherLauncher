@@ -62,7 +62,7 @@ The current Electron-based version represents a complete rewrite with improved p
 ### Main Dashboard
 Quick access to profiles, version selectors, installed mods, real-time console output, official news, and launcher settings.
 
-<img width="1478" height="851" alt="image" src="./assets/screenshot.png" />
+<img width="1478" height="851" alt="image" src="./docs/screenshot.png" />
 
 <details>
 <summary><b>View Interface Details & Screenshots (Versions, Settings, Microsoft Login, Mod Manager, Auto-Fixer)</b></summary>
